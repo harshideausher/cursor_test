@@ -1,3 +1,4 @@
+# prompt_pretrained_mamba.py
 import torch
 from transformers import AutoTokenizer
 from transformers import  MambaForCausalLM, AutoTokenizer

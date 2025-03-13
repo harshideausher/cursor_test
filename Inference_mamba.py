@@ -1,3 +1,4 @@
+# Inference_mamba.py
 import torch
 from transformers import AutoTokenizer, MambaForCausalLM, MambaConfig
 
